@@ -1,0 +1,79 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>Experiment no 3</title>
+</head>
+<body>
+<h1 style = "color:blue" align = "center">Rajiv Gandhi Institute of technology</h1><hr>
+<marquee style = "color:green">VISION : Be a centre of technological excellence for the betterment of society. MISSION : To impart proffessional education to students from all sectors of the sosciety to mould them to commitment.</marquee>  
+<h2 style = "color:white;background-color:red">ABOUT US </h2>
+<img src = "/home/student/Desktop/Lloyd/images.jpeg" height = 300px width = 800px>
+<p>Rajiv Gandhi Institute of Technology, named after the late prime mininster Sri. Rajiv Gandhi, run by the Government of kerala started functioning in 1991.It established a vast infrastructure and put together a team of dedicated teachers.</p>
+<h2 style = "color:white;background-color:red">Cources Offered..</h2>
+<p> All courses offered by RIT are affiliated to <i>KERALA TECHNICAL UNIVERSITY</i> and approved by the all India council for technical education...</p>
+<table border = 2 >
+<tr>
+<td colspan=3>PG</td>
+</tr>
+<tr>
+<th>COURSE</th>
+<th>DEPARTMENT</th>
+<th>INTAKE</th>
+</tr>
+<tr>
+<td rowspan =6>M.tech</td> 
+<td>Civil Engineering</td>
+<td>18</td>
+</tr>
+<tr>
+<td>Mechanical Engineering</td>
+<td>18</td> 
+</tr>
+<tr>
+<td>EE Engineering</td>
+<td>18</td>
+</tr>
+<tr>
+<td>EC Engineering</td>
+<td>18</td>
+</tr>
+</table>
+<table border = 2 >
+<tr>
+<td colspan=3>UG</td>
+</tr>
+<tr>
+<th>COURSE</th>
+<th>DEPARTMENT</th>
+<th>INTAKE</th>
+</tr>
+<tr>
+<td rowspan =5>B.tech</td> 
+<td>Civil Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+<td>Mechanical Engineering</td>
+<td>66</td> 
+</tr>
+<tr>
+<td>EE Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+<td>EC Engineering</td>
+<td>66</td>
+</tr>
+<tr>
+</table>
+<br>
+<h2 style = "color:white;background-color:red">Contact us..</h2>
+<h3 style = "color:blue">Address for communication</h3>
+<br>
+Vellor P.O<br>
+Pampady<br>
+Kottayam - 686501, Kerala <br>
+<a href = "https://www.rit.ac.in">Official Website</a>
+</body>
+</html>
+

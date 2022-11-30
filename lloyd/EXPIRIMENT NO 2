@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title>Experiment no 2</title>
+</head>
+<body>
+<h1><u>FRUITS</u></h1>
+<ul>
+<li>Mango</li>
+<li>Apple</li>
+<li>Orange</li>
+<li>Pineapple</li>
+<li>Jackfruit</li></ul><br><br>
+<h1><u>VEGETABLES</u></h1>
+<ol type ="1">
+<li>Beetroot</li>
+<li>Potato</li>
+<li>Radish</li>
+<li>Chilly</li>
+<li>Tomato</li></ol>
+</body>
+</html>

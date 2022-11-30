@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script>
+function bychange1()
+{
+document.body.style.background = "green";
+}
+function bychange2()
+{
+document.body.style.background = "blue";
+}
+</script>
+</head>
+<body>
+<h>CHANGE BODY BACKGROUND</h><br/>
+<button id = "dblclk" ondblclick = "bychange1()">Doubleclick</button>
+<button id = "clk" onclick = "bychange2()">Singleclick</button>
+</body>
+</html>

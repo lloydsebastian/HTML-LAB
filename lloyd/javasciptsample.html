@@ -1,0 +1,38 @@
+<html>
+<title>MY FIRST JAVASCRIPT</title>
+<script language ="Javascript" type="text/javascript">
+document.write("Hello World ")
+var1=10;
+sum = 0; 
+n=window.prompt("Enter the limit")
+window.alert(math.pow(4,2))
+for(i=1;i<=n;i=i+2)
+{
+document.writeln(i)
+sum=sum+i
+}
+document.write("<br>")
+document.write("sum is : "+ sum)
+function validate()
+{
+if(document.myForm.name.value=="")
+{
+alert("Please provide your name");
+document.myForm.name.focus();
+return false;
+}
+}
+window.confirm("Are you sure")
+</script>
+<body>
+<form name="myForm" onSubmit="validate()">
+Name(Max 10 characters):<input type="text" id="fname" size="20"><br/>
+AGE(FROM 1 TO 100):<INPUT TYPE="text" id="age" size="20"><br/>
+E-mail:<input type="text" id ="email" size = "30"><br/>
+<br/>
+<input type ="submit" value = "submit">
+<input type ="button" value = "print" onclick= "window.print()">
+<input type ="button" value = "Change title" onclick= "document.title= 'Script'">
+</form>
+</body>
+</html>

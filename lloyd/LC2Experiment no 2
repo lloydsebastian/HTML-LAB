@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel = "stylesheet" href = "para.css"></link>
+</head>
+<body>
+<h1 align ="center">CSS SELECTORS</h1>
+<p id = "hs">CSS selectors are used to find the HTML elements you want to style. Five CSS selectors are simple selectors, combinator selectors, pseudo-class selectors, pseudo elements selectors, attribute selectors</p>
+<br>
+<p>The id selectors uses the id attribute of an HTML</p>
+<div class = "center">The class selector selects HTML elementswith a specific class attribute.
+</div>
+</body>
+</html>
+

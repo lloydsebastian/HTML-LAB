@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Festivals</title></head>
+<body>
+<h1 style = "color:Red">Popular festivals of Kerala</h1>
+<p align ="Justify">Kerala is most popularly known for its festival of Onam. Some of the major festivals are Onam, Vishu, Thrissur pooram etc...We are going to look at some of these festivals.<br>
+<ul><li>Onam</li>
+<li>Vishu</li>
+<li>Thrissur Pooram</li></ul>
+<ol>
+<li><h2>ONAM</h2></li>
+<a href = "ONAM.html"><img src = "/home/student/Desktop/Lloyd/Onam.jpeg"></a>
+<li><h2>VISHU</h2></li>
+<a href = "VISHU.html"><img src = "/home/student/Desktop/Lloyd/Vishu.jpeg"></a>
+<li><h2>THRISSUR POORAM</h2></li>
+<a href = "Pooram.html"><img src = "/home/student/Desktop/Lloyd/Pooram.jpeg"></a>
+</ol>
+</body>
+</html>
+

@@ -1,0 +1,54 @@
+<html>
+<head>
+<style>
+table{border:collapse;
+width=100%;
+font-family:solid;
+border-color:grey;
+border:1px;
+}
+th{
+padding:8px;
+border-style:solid;
+border-color:grey;
+border:1px;
+}
+tr:nth-child(even){background-color:#f2f2f2;
+}
+tr:hover{
+background-color:burlywood;
+}
+</style>
+</head>
+<body>
+
+<table id="table">
+<tr>
+<th>
+sl.no</th>
+<th>Admission no:
+</th>
+<th>
+Name</th>
+<th> Email id</th>
+</tr>
+<tr>
+<td>1</td>
+<td> 22mp1943</td>
+<td>Lloyd Sebastian</TD>
+<td>lloydseban@gmail.com</td>
+<tr>
+<td>2.</td>
+<td> 22mp1954</td>
+<td> joel</td>
+<td>joelgeorge@gmail.com</td>
+</tr>
+<tr>
+<td>3.</td>
+<td> 22mp1969</td>
+<td> raheem</td>
+<td>raheem@gmail.com</td>
+</tr>
+</table>
+</body>
+</html>

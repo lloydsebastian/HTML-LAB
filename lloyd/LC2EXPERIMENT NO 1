@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Biodata</title>
+<style>
+h1{text-align : center;color : red}
+h2{background-color:blue;color:white}
+p{border-style:solid}
+body{background-color:yellow;}
+</style>
+</head>
+<body>
+<b><center><h1><u>BIODATA</u></h1></center></b><br>
+<h1></h1>
+<ol type = "1">
+<li><h2>Personal Details</h2></li>
+<ul>
+<li>Gender:Male</li>
+<li>Age:21</li>
+<li>Address: Cherthala, Alappuzha</li>
+</ul>
+<li><h2>ACADEMICS</h2></li>
+<ul>
+<li>Graduation(Computer Science)</li>
+<li>HSE</li>
+<li>SSLC</li>
+</ul>
+</ol>
+<br>
+<p>Contact Details:<br>
+Mail id : lloydseban@gmail.com<br>
+Contact no : 8921545062</p>
+</body>
+</html>

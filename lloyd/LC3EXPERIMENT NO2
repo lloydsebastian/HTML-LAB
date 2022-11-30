@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function off()
+{
+document.getElementById('image').src="pic_bulboff.gif";
+}
+function on()
+{
+document.getElementById('image').src="pic_bulbon.gif";
+}
+</script>
+</head>
+<body>
+<img id ="image" src = "pic_bulboff.gif" style = "width:155px"><br>
+<button id = "image" onclick = "off()">OFF</button>
+<button id = "image" onclick = "on()">ON</button>
+</body>
+</html>

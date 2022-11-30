@@ -1,0 +1,11 @@
+#hs{
+font-family: sans-serif;
+background-color: blue;
+color: red;
+}
+p{
+background-color: red; color: yellow;
+}
+.center{
+text-align: center; color: blue;
+}

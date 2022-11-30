@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title>Experiment no 1</title></head>
+<body bgcolor = "white">
+<h1>WELCOME TO RAJIV GANDHI INSTITUTE OF TECHNOLOGY</h1>
+<h2>GOVERNMENT ENGINEERING COLLEGE KOTTAYAM</h2>
+<h3>ABOUT US...</h3>
+<p align = "center">Rajiv Gandhi Institute of technology named after the late prime minister.
+<b>Sri.Rajiv Gandhi </b>run by the <i>GOVERNMENT OF KERALA </i>started functioning in 1991. The Institution has become one of <u>leading institution of kerala. </u></b>
+<h4>Courses offered</h4>
+Civil Engineering<br>
+Mechanical Engineering<br>
+Computer Science and Engineering<br>
+Electrical Engineering<br>
+Master of Computer Applications<br>
+<h5>News and Events</h5>
+<marquee>ADMISSION CLOSED...!</marquee><br><br>
+<h6>Gallery</h6>
+<img src = "/home/student/Desktop/Lloyd/220px-AdministrativeBlock.jpg" alt="RIT">
+<img src = "/home/student/Desktop/Lloyd/index.jpeg" alt="RIT2">
+<a href = "http://www.rit.ac.in">VISIT OIR OFFICIAL WEBSITE</a>
+</body>
+</html> 
+
